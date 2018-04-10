@@ -1,0 +1,43 @@
+c:\users\sparks.fang\documents\visual studio 2013\Projects\Alam_Function\Alam_Function\bin\Debug\Alam_Function.exe.config
+c:\users\sparks.fang\documents\visual studio 2013\Projects\Alam_Function\Alam_Function\bin\Debug\Alam_Function.exe
+c:\users\sparks.fang\documents\visual studio 2013\Projects\Alam_Function\Alam_Function\bin\Debug\Alam_Function.pdb
+c:\users\sparks.fang\documents\visual studio 2013\Projects\Alam_Function\Alam_Function\obj\Debug\Alam_Function.csprojResolveAssemblyReference.cache
+c:\users\sparks.fang\documents\visual studio 2013\Projects\Alam_Function\Alam_Function\obj\Debug\Alam_Function.Form1.resources
+c:\users\sparks.fang\documents\visual studio 2013\Projects\Alam_Function\Alam_Function\obj\Debug\Alam_Function.Properties.Resources.resources
+c:\users\sparks.fang\documents\visual studio 2013\Projects\Alam_Function\Alam_Function\obj\Debug\Alam_Function.csproj.GenerateResource.Cache
+c:\users\sparks.fang\documents\visual studio 2013\Projects\Alam_Function\Alam_Function\obj\Debug\Alam_Function.exe
+c:\users\sparks.fang\documents\visual studio 2013\Projects\Alam_Function\Alam_Function\obj\Debug\Alam_Function.pdb
+c:\users\sparks.fang\documents\visual studio 2013\Projects\Alam_Function\Alam_Function\obj\Debug\Alam_Function.frm_Alarm.resources
+C:\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\bin\Debug\Alam_Function.exe.config
+C:\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.exe
+C:\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.pdb
+C:\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\bin\Debug\Alam_Function.exe
+C:\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\bin\Debug\Alam_Function.pdb
+C:\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.csprojResolveAssemblyReference.cache
+C:\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.Form1.resources
+C:\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.frm_alamEdit.resources
+C:\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.frm_Alarm.resources
+C:\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.Properties.Resources.resources
+C:\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.csproj.GenerateResource.Cache
+F:\201707备份桌面\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\bin\Debug\Alam_Function.exe.config
+F:\201707备份桌面\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.exe
+F:\201707备份桌面\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.pdb
+F:\201707备份桌面\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\bin\Debug\Alam_Function.exe
+F:\201707备份桌面\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\bin\Debug\Alam_Function.pdb
+F:\201707备份桌面\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.csprojResolveAssemblyReference.cache
+F:\201707备份桌面\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.Form1.resources
+F:\201707备份桌面\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.frm_alamEdit.resources
+F:\201707备份桌面\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.frm_Alarm.resources
+F:\201707备份桌面\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.Properties.Resources.resources
+F:\201707备份桌面\Users\SPARKS.FANG\Documents\Visual Studio 2013\Projects\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.csproj.GenerateResource.Cache
+D:\VSsample\Alam_Function01\Alam_Function\bin\Debug\Alam_Function.exe.config
+D:\VSsample\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.exe
+D:\VSsample\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.pdb
+D:\VSsample\Alam_Function01\Alam_Function\bin\Debug\Alam_Function.exe
+D:\VSsample\Alam_Function01\Alam_Function\bin\Debug\Alam_Function.pdb
+D:\VSsample\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.csprojResolveAssemblyReference.cache
+D:\VSsample\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.Form1.resources
+D:\VSsample\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.frm_alamEdit.resources
+D:\VSsample\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.frm_Alarm.resources
+D:\VSsample\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.Properties.Resources.resources
+D:\VSsample\Alam_Function01\Alam_Function\obj\Debug\Alam_Function.csproj.GenerateResource.Cache
